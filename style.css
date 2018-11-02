@@ -1,3 +1,7 @@
 body{
     background:red;
 }
+hi{
+    gap: inherit;
+    grid-gap: 0ch;
+}
