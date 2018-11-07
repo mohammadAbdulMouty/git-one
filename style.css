@@ -1,6 +1,10 @@
 body{
     background:red;
+<<<<<<< HEAD
     margin:20px;
+=======
+    padding:30px;
+>>>>>>> feature-c
 }
 hi{
     gap: inherit;
